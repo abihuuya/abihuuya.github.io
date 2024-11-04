@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://abihuuya.github.io/IoR/sitemap_index.txt
+Sitemap: https://abihuuya.github.io/ate/sitemap_index.txt
+Sitemap: https://abihuuya.github.io/eaQ/sitemap_index.txt
+Sitemap: https://abihuuya.github.io/yxQ/sitemap_index.txt
